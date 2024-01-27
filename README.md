@@ -31,31 +31,31 @@ Your table should indicate for each year:
 
 ## Sample Output
 
-    01: current_balance: 1000.00, interest: 65.00,  deposit: 100, new balance: 1065.00
-    02: current_balance: 1065.00, interest: 69.23,  deposit: 100, new balance: 1134.22
-    03: current_balance: 1134.22, interest: 73.72,  deposit: 100, new balance: 1207.95
-    04: current_balance: 1207.95, interest: 78.52,  deposit: 100, new balance: 1286.47
-    05: current_balance: 1286.47, interest: 83.62,  deposit: 100, new balance: 1370.09
-    06: current_balance: 1370.09, interest: 89.06,  deposit: 100, new balance: 1459.14
-    07: current_balance: 1459.14, interest: 94.84,  deposit: 100, new balance: 1553.99
-    08: current_balance: 1553.99, interest: 101.01, deposit: 100, new balance: 1655.00
-    09: current_balance: 1655.00, interest: 107.57, deposit: 100, new balance: 1762.57
-    10: current_balance: 1762.57, interest: 114.57, deposit: 100, new balance: 1877.14
-    11: current_balance: 1877.14, interest: 122.01, deposit: 100, new balance: 1999.15
-    12: current_balance: 1999.15, interest: 129.94, deposit: 100, new balance: 2129.10
-    13: current_balance: 2129.10, interest: 138.39, deposit: 100, new balance: 2267.49
-    14: current_balance: 2267.49, interest: 147.39, deposit: 100, new balance: 2414.87
-    15: current_balance: 2414.87, interest: 156.97, deposit: 100, new balance: 2571.84
-    16: current_balance: 2571.84, interest: 167.17, deposit: 100, new balance: 2739.01
-    17: current_balance: 2739.01, interest: 178.04, deposit: 100, new balance: 2917.05
-    18: current_balance: 2917.05, interest: 189.61, deposit: 100, new balance: 3106.65
-    19: current_balance: 3106.65, interest: 201.93, deposit: 100, new balance: 3308.59
-    20: current_balance: 3308.59, interest: 215.06, deposit: 100, new balance: 3523.65
-    21: current_balance: 3523.65, interest: 229.04, deposit: 100, new balance: 3752.68
-    22: current_balance: 3752.68, interest: 243.92, deposit: 100, new balance: 3996.61
-    23: current_balance: 3996.61, interest: 259.78, deposit: 100, new balance: 4256.39
-    24: current_balance: 4256.39, interest: 276.67, deposit: 100, new balance: 4533.05
-    25: current_balance: 4533.05, interest: 294.65, deposit: 100, new balance: 4827.70
+1: current balance: 1000.00, interest: 65.00, deposit: 100, new balance: 1065.0
+2: current balance: 1165.00, interest: 75.73, deposit: 100, new balance: 1240.73
+3: current balance: 1340.73, interest: 87.15, deposit: 100, new balance: 1427.88
+4: current balance: 1527.88, interest: 99.31, deposit: 100, new balance: 1627.19
+5: current balance: 1727.19, interest: 112.27, deposit: 100, new balance: 1839.46
+6: current balance: 1939.46, interest: 126.06, deposit: 100, new balance: 2065.52
+7: current balance: 2165.52, interest: 140.76, deposit: 100, new balance: 2306.28
+8: current balance: 2406.28, interest: 156.41, deposit: 100, new balance: 2562.69
+9: current balance: 2662.69, interest: 173.07, deposit: 100, new balance: 2835.76
+10: current balance: 2935.76, interest: 190.82, deposit: 100, new balance: 3126.58
+11: current balance: 3226.58, interest: 209.73, deposit: 100, new balance: 3436.31
+12: current balance: 3536.31, interest: 229.86, deposit: 100, new balance: 3766.17
+13: current balance: 3866.17, interest: 251.30, deposit: 100, new balance: 4117.47
+14: current balance: 4217.47, interest: 274.14, deposit: 100, new balance: 4491.61
+15: current balance: 4591.61, interest: 298.45, deposit: 100, new balance: 4890.06
+16: current balance: 4990.06, interest: 324.35, deposit: 100, new balance: 5314.41
+17: current balance: 5414.41, interest: 351.94, deposit: 100, new balance: 5766.35
+18: current balance: 5866.35, interest: 381.31, deposit: 100, new balance: 6247.66
+19: current balance: 6347.66, interest: 412.60, deposit: 100, new balance: 6760.26
+20: current balance: 6860.26, interest: 445.92, deposit: 100, new balance: 7306.18
+21: current balance: 7406.18, interest: 481.40, deposit: 100, new balance: 7887.58
+22: current balance: 7987.58, interest: 519.19, deposit: 100, new balance: 8506.77
+23: current balance: 8606.77, interest: 559.44, deposit: 100, new balance: 9166.21
+24: current balance: 9266.21, interest: 602.30, deposit: 100, new balance: 9868.51
+25: current balance: 9968.51, interest: 647.95, deposit: 100, new balance: 10616.46
 
 
 ## Submitting Your Work
