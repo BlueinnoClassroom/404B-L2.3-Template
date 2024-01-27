@@ -32,7 +32,7 @@ Your table should indicate for each year:
 ## Sample Output
 
 ```
-01: current balance: 1000.00, interest: 65.00, deposit: 100, new balance: 1065.0
+01: current balance: 1000.00, interest: 65.00, deposit: 100, new balance: 1065.00
 02: current balance: 1165.00, interest: 75.73, deposit: 100, new balance: 1240.73
 03: current balance: 1340.73, interest: 87.15, deposit: 100, new balance: 1427.88
 04: current balance: 1527.88, interest: 99.31, deposit: 100, new balance: 1627.19
