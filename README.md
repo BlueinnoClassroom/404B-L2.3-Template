@@ -31,6 +31,7 @@ Your table should indicate for each year:
 
 ## Sample Output
 
+```
 1: current balance: 1000.00, interest: 65.00, deposit: 100, new balance: 1065.0
 2: current balance: 1165.00, interest: 75.73, deposit: 100, new balance: 1240.73
 3: current balance: 1340.73, interest: 87.15, deposit: 100, new balance: 1427.88
@@ -56,7 +57,7 @@ Your table should indicate for each year:
 23: current balance: 8606.77, interest: 559.44, deposit: 100, new balance: 9166.21
 24: current balance: 9266.21, interest: 602.30, deposit: 100, new balance: 9868.51
 25: current balance: 9968.51, interest: 647.95, deposit: 100, new balance: 10616.46
-
+```
 
 ## Submitting Your Work
 
