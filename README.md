@@ -32,15 +32,15 @@ Your table should indicate for each year:
 ## Sample Output
 
 ```
-1: current balance: 1000.00, interest: 65.00, deposit: 100, new balance: 1065.0
-2: current balance: 1165.00, interest: 75.73, deposit: 100, new balance: 1240.73
-3: current balance: 1340.73, interest: 87.15, deposit: 100, new balance: 1427.88
-4: current balance: 1527.88, interest: 99.31, deposit: 100, new balance: 1627.19
-5: current balance: 1727.19, interest: 112.27, deposit: 100, new balance: 1839.46
-6: current balance: 1939.46, interest: 126.06, deposit: 100, new balance: 2065.52
-7: current balance: 2165.52, interest: 140.76, deposit: 100, new balance: 2306.28
-8: current balance: 2406.28, interest: 156.41, deposit: 100, new balance: 2562.69
-9: current balance: 2662.69, interest: 173.07, deposit: 100, new balance: 2835.76
+01: current balance: 1000.00, interest: 65.00, deposit: 100, new balance: 1065.0
+02: current balance: 1165.00, interest: 75.73, deposit: 100, new balance: 1240.73
+03: current balance: 1340.73, interest: 87.15, deposit: 100, new balance: 1427.88
+04: current balance: 1527.88, interest: 99.31, deposit: 100, new balance: 1627.19
+05: current balance: 1727.19, interest: 112.27, deposit: 100, new balance: 1839.46
+06: current balance: 1939.46, interest: 126.06, deposit: 100, new balance: 2065.52
+07: current balance: 2165.52, interest: 140.76, deposit: 100, new balance: 2306.28
+08: current balance: 2406.28, interest: 156.41, deposit: 100, new balance: 2562.69
+09: current balance: 2662.69, interest: 173.07, deposit: 100, new balance: 2835.76
 10: current balance: 2935.76, interest: 190.82, deposit: 100, new balance: 3126.58
 11: current balance: 3226.58, interest: 209.73, deposit: 100, new balance: 3436.31
 12: current balance: 3536.31, interest: 229.86, deposit: 100, new balance: 3766.17
